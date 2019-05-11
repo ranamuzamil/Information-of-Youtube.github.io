@@ -1,0 +1,32 @@
+h1 {
+	font-size: 18px;
+}
+a {
+	color: #000000;
+	text-decoration: underline;
+}
+a:hover {
+	color: #000000;
+	text-decoration: none;
+}
+h2 {
+	font-size: 16px;
+}
+p {
+	font-size: 14px;
+}
+/* CSS DOCUMENT */
+#menu ul
+{
+	list-style: none;
+}
+#menu ul li
+{
+	background-color: red;
+	border:2px solid white;
+	width: 122px;
+	height: 30px;
+	line-height: 30px;
+	float: left;
+	text-align: center;
+}
